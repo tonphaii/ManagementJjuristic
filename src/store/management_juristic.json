@@ -1,0 +1,139 @@
+{
+  "document_type_list": [
+    { "name": "บัตรประชาชน", "value": "id_card" },
+    { "name": "หนังสือเดินทาง", "value": "passport" },
+    { "name": "ใบสำคัญประจำตัวต่างด้าว", "value": "tangdow" }
+  ],
+
+  "mock_data_list": [
+    {
+      "no": 1,
+      "house_id_number": "1234567891",
+      "registration_office": "บริษัทจำกัด",
+      "house_number": 245,
+      "moo": 10,
+
+      "condominium": "The Nap Nara 22",
+      "floor": 6,
+      "village": "หมู่บ้าน A",
+      "alley": "-",
+      "lane": "สาธุประดิษฐ์ 17",
+      "road": "นราธิวาสนครินทร์ 24",
+      "province": "กรุงเทพมหานคร",
+      "district": "ยานนาวา",
+      "subdistrict": "ช่องนนทรี",
+      "zip_code": "10120",
+      "tel": "0652803448",
+      "fax": "0212345678",
+
+      "document_type": "id_card",
+
+      "registration_number": "1",
+      "juristic_type": "บริษัทจำกัด",
+      "juristic_name": "ว้าวุ้นเลยทีนี้",
+      "registration_location": "Bangkok",
+      "date_todo": "02/10/2566",
+      "email": "bambutsakorn00@gmail.com",
+      "tax_id": "1234567891234",
+
+      "prefix": "นางสาว",
+      "firstname": "บุษกร",
+      "middle_name": "",
+      "lastname": "คารมย์",
+      "gender": "หญิง",
+      "birthday": "26/02/2544",
+      "nationality": "ไทย",
+      "race": "ไทย",
+      "father_name": "นายสาคร คารมย์",
+      "mother_name": "นางสาวทิพากร พุทธวงษ์",
+
+      "director_type": "",
+      "committee_operations": "",
+      "date_started": "03/10/2566"
+    },
+    {
+      "no": 2,
+      "house_id_number": "1234567891",
+      "registration_office": "บริษัทจำกัด",
+      "house_number": 245,
+      "moo": 10,
+
+      "condominium": "The Nap Nara 22",
+      "floor": 6,
+      "village": "หมู่บ้าน A",
+      "alley": "-",
+      "lane": "สาธุประดิษฐ์ 17",
+      "road": "นราธิวาสนครินทร์ 24",
+      "province": "กรุงเทพมหานคร",
+      "district": "ยานนาวา",
+      "subdistrict": "ช่องนนทรี",
+      "zip_code": "10120",
+      "tel": "0652803448",
+      "fax": "0212345678",
+
+      "document_type": "passport",
+
+      "registration_number": "1",
+      "juristic_type": "บริษัทจำกัด",
+      "juristic_name": "ว้าวุ้นเลยทีนี้",
+      "registration_location": "Bangkok",
+      "date_todo": "02/10/2566",
+      "email": "bambutsakorn00@gmail.com",
+      "tax_id": "1234567891234",
+
+      "prefix": "นางสาว",
+      "firstname": "บุษกร",
+      "middle_name": "",
+      "lastname": "คารมย์",
+      "gender": "หญิง",
+      "birthday": "26/02/2544",
+      "nationality": "ไทย",
+      "race": "ไทย",
+      "father_name": "นายสาคร คารมย์",
+      "mother_name": "นางสาวทิพากร พุทธวงษ์",
+
+      "director_type": "",
+      "committee_operations": "",
+      "date_started": "03/10/2566"
+    }
+  ],
+  "mock_data_list_director": [
+    {
+      "no": 1,
+      "house_id_number": "1234567891",
+      "registration_office": "บริษัทจำกัด",
+      "house_number": 245,
+      "moo": 10,
+
+      "condominium": "The Nap Nara 22",
+      "floor": 6,
+      "village": "หมู่บ้าน A",
+      "alley": "-",
+      "lane": "สาธุประดิษฐ์ 17",
+      "road": "นราธิวาสนครินทร์ 24",
+      "province": "กรุงเทพมหานคร",
+      "district": "ยานนาวา",
+      "subdistrict": "ช่องนนทรี",
+      "zip_code": "10120",
+      "tel": "0652803448",
+      "fax": "0212345678",
+
+      "document_type": "id_card",
+
+      "prefix": "นางสาว",
+      "firstname": "บุษกร",
+      "middle_name": "",
+      "lastname": "คารมย์",
+      "gender": "หญิง",
+      "birthday": "26/02/2544",
+      "nationality": "ไทย",
+      "race": "ไทย",
+      "father_name": "นายสาคร คารมย์",
+      "mother_name": "นางสาวทิพากร พุทธวงษ์",
+
+      "director_type": "",
+      "committee_operations": "",
+      "date_started": "03/10/2566"
+    }
+  ]
+}
